@@ -2,6 +2,8 @@
 
 Calculadora desenvolvida como exemplo do Curso Completo de JavaScript da Hcode Treinamentos.
 
+![alt text](https://miro.medium.com/max/424/1*RGMdgCFFDu0k7yZtcyxbjQ.png)
+
 ### Fases:
 
 - Aula 01 - Estruturando o Projeto
